@@ -22,3 +22,13 @@ umur = 24 txt = 'Hello, nama saya john, dan umur saya adalah ... tahun'
 print(txt.format(umur))
 
 Program Latihan 2 
+
+![Cuplikan layar 2024-12-27 162208](https://github.com/user-attachments/assets/e7b3f430-86c5-4bce-9d6d-e46676f6d61f)
+
+Hasil Program Latihan 2
+
+![Cuplikan layar 2024-12-27 162236](https://github.com/user-attachments/assets/252ea000-b197-447c-b538-245db6882cec)
+
+
+
+
