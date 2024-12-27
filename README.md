@@ -29,6 +29,16 @@ Hasil Program Latihan 2
 
 ![Cuplikan layar 2024-12-27 162236](https://github.com/user-attachments/assets/252ea000-b197-447c-b538-245db6882cec)
 
+**Studi Kasus : Validasi Form Input**
 
+Sebuah aplikasi pendaftaran online memerlukan validasi input. Anda diminta membuat program untuk memvalidasi data berikut: • Nama lengkap (harus hanya berisi huruf). • Nomor telepon (harus hanya berisi angka). • Email (harus mengandung karakter @ dan . ). • Jika semua validasi berhasil, tampilkan pesan: Data pendaftaran valid. Jika tidak, tampilkan pesan error untuk setiap kesalahan.
+
+Program studi kasus 
+
+![Cuplikan layar 2024-12-27 163016](https://github.com/user-attachments/assets/4004642a-5d55-4b0b-8022-1a32c75a6e88)
+
+Hasil studi kasus
+
+![Cuplikan layar 2024-12-27 163045](https://github.com/user-attachments/assets/4a45998e-5c85-49ad-8d98-ca5185bff747)
 
 
